@@ -4,7 +4,7 @@
 
 ##### 🤹 I can write scientifically, think critically, deliver a great presentation, and above all learn heavier subjects quickly and efficiently (something I am used to!)
 
-##### 🧠 I am deepening my intermediate knowledge of python and learning R for data science!
+##### 🧠 I am deepening my intermediate knowledge of **python** and learning R for data science!
 
 ##### 📫 e-mail me at afonso.martins@ua.pt!
 
