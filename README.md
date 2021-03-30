@@ -8,4 +8,4 @@
 
 #### 📫 e-mail me at afonso.martins@ua.pt!
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/afonso-martins)
+[![LinkedIn](<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>)(linkedin.com/afonso-martins)
