@@ -8,7 +8,9 @@
 
 ##### 📫 e-mail me at afonso.martins@ua.pt!
 
+<br/><br/>
+
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/afonso-martins/)
 
-[<img src="https://www.codewars.com/users/AC-Martins/badges/small"/>](https://www.codewars.com/users/AC-Martins)
 
+[<img src="https://www.codewars.com/users/AC-Martins/badges/small"/>](https://www.codewars.com/users/AC-Martins)
