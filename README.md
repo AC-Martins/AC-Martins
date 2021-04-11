@@ -4,7 +4,7 @@
 
 ##### 🤹 I can write scientifically, think critically, deliver a great presentation, and above all learn heavier subjects quickly and efficiently (something I am used to!)
 
-##### 🧠 I am deepening my knowledge of python, SQL, databases!
+##### 🧠 I am deepening my knowledge of python, SQL and databases!
 
 ##### 📫 e-mail me at afonso.martins@ua.pt!
 
